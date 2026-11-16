@@ -1,0 +1,1 @@
+{"id":"linctrl.systemctl","name":"Службы systemd","summary":"Просмотр и управление службами Linux.","apiVersion":1,"entry":"Main.qml"}
